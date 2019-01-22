@@ -1,0 +1,28 @@
+<li><font face="monospace" size="4">Proposed and implemented <b>“Preemptive failure detection of operations using graph structure learning in datacentres”</b>,
+                     US patent successfully filed and also submitted for TechCon’19, Huston TX. (Annual research conference of HPE).</font>
+                </li>
+                <li><font face="monospace" size="4">Contributed to Distributed Management Task Force (DMTF) Redfish standard as part of <b>Open Compute Project</b> research initiative. </font></li>
+                <li><font face="monospace" size="4">Helped develop <b>EBLAS (Ethereum Blockchain Lab As a Service)</b>, a rapid application development and deployment platform for Ethereum DApps.with automated REST endpoints generated for smart contracts. Presented at HPE World Wide Ambassador Summit’18, Dallas TX.</font></li>
+                <li>
+                        <font face="monospace" size="4"> Proposed and provided a new approach to quickly detect root cause and troubleshoot propagated issues in large scale datacentres <b>“Topology based root cause triangulation in datacentres”</b>, patent successfully filed.</font>
+                </li>
+                <li>
+                        <font face="monospace" size="4"> Helped design and build many features for <b>OneView (A datacentre infrastructure management system)</b>, namely OS boot management, Dynamic BIOS registry support, Generic blade server management etc.</font>
+                </li>
+                <li>
+                        <font face="monospace" size="4">Designed and built ServeFish, a simulator modelled to mimic server hardware operations enabling supportability of new servers by OneView. Model design accepted and presented at <b>Technical Symposium’18 HPE.</b></font> 
+                </li>
+
+                <div id="patents">
+            <h2>Patents and Publications</h2>
+            
+        <p><font face="monospace" size="4"> [1] <b>Topology based root cause triangulation of hardware issues in datacentres</b>
+        <br>US patent pending.</font></p>
+
+        <p><font face="monospace" size="4"> [2] <b>Pre-emptive failure detection of operations using graph structure learning in datacentres</b>
+        <br>US patent pending, submitted for Techon’19.</font></p>
+
+        <p><font face="monospace" size="4"> [3] <b>Dynamic infrastructure management for generic systems using Redfish</b>
+        <br>Nominated for Defensive publication, accepted at Technical Symposium’18 HPE.</font></p>
+            <br>
+        </div>
